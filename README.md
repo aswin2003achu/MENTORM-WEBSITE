@@ -1,1 +1,3 @@
 # MENTORM-WEBSITE
+
+Mentorm is an innovative online platform bridging the gap between learners and experienced mentors. With a user-friendly interface, Mentorm connects learners with mentors across diverse fields, utilizing advanced algorithms to tailor matches based on individual learning objectives and preferences. Learners access a curated marketplace for academic subjects, professional skills, and career development, while mentors share expertise through one-on-one sessions and group workshops. Mentorm fosters a vibrant learning community, empowering learners to achieve their goals in a supportive environment.
