@@ -1,0 +1,50 @@
+/* Mentorm Website - Styles */
+.hero-content h1 {
+font-size: 3em;
+margin-bottom: 10px;
+}
+
+
+.btn-primary {
+display: inline-block;
+padding: 10px 25px;
+background: #38bdf8;
+color: #fff;
+border-radius: 5px;
+text-decoration: none;
+transition: background 0.3s ease;
+}
+
+
+.btn-primary:hover {
+background: #0284c7;
+}
+
+
+.features {
+display: flex;
+justify-content: center;
+gap: 25px;
+margin: 60px auto;
+flex-wrap: wrap;
+max-width: 1000px;
+}
+
+
+.feature-box {
+background: #fff;
+padding: 25px;
+border-radius: 10px;
+box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+text-align: center;
+flex: 1 1 280px;
+}
+
+
+footer {
+background: #1e293b;
+color: #fff;
+text-align: center;
+padding: 15px 0;
+margin-top: 40px;
+}
